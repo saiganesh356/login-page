@@ -1,0 +1,13 @@
+.bttn-login {
+  padding: 10px;
+  border-radius: 10px;
+  width: 100px;
+  border-width: 0px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
